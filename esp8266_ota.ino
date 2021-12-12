@@ -44,8 +44,8 @@ X509List cert(trustRoot);
 extern const unsigned char caCert[] PROGMEM;
 extern const unsigned int caCertLen;
 
-const char* ssid = "home_wifi";
-const char* password = "helloworld";
+const char* ssid = "gratis";
+const char* password = "ciumdulu";
 
 void setClock() {
    // Set time via NTP, as required for x.509 validation
